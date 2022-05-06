@@ -1,0 +1,13 @@
+.button {
+  width: 100px;
+  height: 40px;
+  padding: 0px;
+  margin-right: 10px;
+  border-width: 5px;
+  background-color: aquamarine;
+  cursor: pointer;
+}
+.title,
+.notification {
+  font-size: 40px;
+}
